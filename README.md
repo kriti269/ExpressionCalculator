@@ -3,7 +3,7 @@ Calculates the given expression and generates the result.
 
 # How to run:
 1. Download and unzip the source code.
-2. ```cd ExpressionCalculator```
+2. ```cd ExpressionCalculator-main```
 3. ```mkdir out```
 4. ```javac -d out src/Main.java```
 5. ```cd out```
